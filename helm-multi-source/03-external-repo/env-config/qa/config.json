@@ -1,7 +1,8 @@
 {
     "env": "qa",
-    "region": "us",
+    "region": "eu",
     "type": "non-prod",
     "version": "qa",
     "chart": "0.2.0"
-  }
+}
+
